@@ -30,7 +30,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDOrz_sGaHqG9wI3WDj85t3TdIR42jJOak" />
+            android:value="" />
 
         <activity
             android:name=".HeatMapActivity"
