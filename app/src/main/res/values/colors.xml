@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_grey">#999999</color>
+    <color name="lighter_grey">#CCCCCC</color>
+    <color name="dark_grey">#444444</color>
+    <color name="darker_grey">#222222</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Green">#90ee90</color>
+
+
+
+    <color name="zero">#880808</color>
+    <color name="one">#C41E3A</color>
+    <color name="two">#F6BE00</color>
+    <color name="three">#4CBB17</color>
+    <color name="four">#32CD32</color>
+
+
+    <color name="error">#880808</color>
+    <color name="error2">#C41E3A</color>
+    <!-- amber_500 -->
+    <color name="warning">#F6BE00</color>
+    <!-- green_500 -->
+    <color name="success">#4CBB17</color>
+    <color name="success2">#32CD32</color>
+
+    <color name="regular">#9E9E9E</color>
+</resources>

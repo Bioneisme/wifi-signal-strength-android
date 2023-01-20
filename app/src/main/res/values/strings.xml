@@ -1,0 +1,73 @@
+<resources>
+
+
+
+
+
+
+
+    <string name="app_name">TestWifi</string>
+    <string name="not_scanned_yet">No WiFi Scans Yet...</string>
+    <string name="no_ap_available">No WiFi APs available nearby</string>
+    <string name="turn_on_wifi">Please turn on WiFi</string>
+    <string name="turn_on_location">Please turn on Location</string>
+    <string name="wifi_not_found">Selected WiFi not found</string>
+    <string name="last_updated">Last updated : %1$s</string>
+    <string name="ap_name">%s</string>
+    <string name="ap_distance">%sm</string>
+    <string name="ap_level">%ddB</string>
+
+
+    <!-- filter start -->
+    <string name="filter_title">Filter</string>
+    <string name="filter_close">Close</string>
+    <string name="filter_reset">Reset</string>
+    <string name="filter_apply">Apply</string>
+    <string name="filter_wifi_band_title">Wi-Fi Band</string>
+    <string name="filter_wifi_band_key" translatable="false">filter_wifi_band</string>
+    <string name="filter_strength_title">Signal Strength</string>
+    <string name="filter_strength_key" translatable="false">filter_strength</string>
+    <string name="filter_security_title">Security</string>
+    <string name="filter_security_key" translatable="false">filter_security</string>
+    <!-- filter end -->
+
+
+    <!-- security start -->
+    <string name="security_none">None</string>
+    <string name="security_wps" translatable="false">WPS</string>
+    <string name="security_wep" translatable="false">WEP</string>
+    <string name="security_wpa" translatable="false">WPA</string>
+    <string name="security_wpa2" translatable="false">WPA2</string>
+    <string name="security_wpa3" translatable="false">WPA3</string>
+    <!-- security end -->
+
+
+    <!-- Wi-Fi band start -->
+    <string name="wifi_band_title" translatable="false">2.4/5/6 GHz</string>
+    <string name="wifi_band_2ghz" translatable="false">2.4 GHz</string>
+    <string name="wifi_band_5ghz" translatable="false">5 GHz</string>
+    <string name="wifi_band_6ghz" translatable="false">6 GHz</string>
+    <!-- Wi-Fi band end -->
+
+
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="ok">OK</string>
+    <string name="scan">SCAN</string>
+    <string name="access_points">Access points</string>
+    <string name="profile">Profile</string>
+    <string name="heatmap">Heatmap</string>
+    <string name="actions_history">Actions History</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="recommended_value_1000ms">Recommended value: ~1000ms</string>
+    <string name="sound_frequency">Sound frequency</string>
+    <string name="update_rate">Update Rate</string>
+    <string name="language">Language</string>
+    <string name="logout">LOG OUT</string>
+    <string name="save">SAVE</string>
+
+
+
+</resources>

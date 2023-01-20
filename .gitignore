@@ -1,0 +1,13 @@
+*.iml
+.gradle
+app/release
+.idea
+**/local.properties
+.DS_Store
+**/build
+/captures
+.externalNativeBuild
+.cxx
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat

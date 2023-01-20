@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/accessPoints">
+
+    <activity
+        android:id="@+id/accessPoints"
+        android:name="com.thirteen_lab.wifi_searcher.AccessPointsActivity"
+        android:label="activity_access_points"
+        tools:layout="@layout/activity_access_points" />
+    <activity
+        android:id="@+id/profileActivity"
+        android:name="com.thirteen_lab.wifi_searcher.ProfileActivity"
+        android:label="activity_profile"
+        tools:layout="@layout/activity_profile" />
+    <activity
+        android:id="@+id/heatMap"
+        android:name="com.thirteen_lab.wifi_searcher.HeatMapActivity"
+        android:label="activity_heat_map"
+        tools:layout="@layout/activity_heat_map" />
+</navigation>

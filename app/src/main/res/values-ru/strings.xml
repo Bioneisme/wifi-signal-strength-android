@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TestWifi</string>
+    <string name="not_scanned_yet">Сканирования WiFi пока нет...</string>
+    <string name="no_ap_available">Отсутствие точек доступа WiFi поблизости</string>
+    <string name="turn_on_wifi">Пожалуйста, включите WiFi</string>
+    <string name="turn_on_location">Пожалуйста, включите функцию "Местоположение"</string>
+    <string name="wifi_not_found">Выбранный WiFi не найден</string>
+    <string name="last_updated">Последнее обновление: %1$s</string>
+    <string name="ap_name">%s</string>
+    <string name="ap_distance">%sm</string>
+    <string name="ap_level">%ddB</string>
+
+
+    <!-- filter start -->
+    <string name="filter_title">Фильтр</string>
+    <string name="filter_close">Закрыть</string>
+    <string name="filter_reset">Сброс</string>
+    <string name="filter_apply">Применить</string>
+    <string name="filter_wifi_band_title">Диапазон Wi-Fi</string>
+    <string name="filter_wifi_band_key" translatable="false">filter_wifi_band</string>
+    <string name="filter_strength_title">Сила сигнала</string>
+    <string name="filter_strength_key" translatable="false">filter_strength</string>
+    <string name="filter_security_title">Безопасность</string>
+    <string name="filter_security_key" translatable="false">filter_security</string>
+    <!-- filter end -->
+
+
+    <!-- security start -->
+    <string name="security_none">None</string>
+    <string name="security_wps" translatable="false">WPS</string>
+    <string name="security_wep" translatable="false">WEP</string>
+    <string name="security_wpa" translatable="false">WPA</string>
+    <string name="security_wpa2" translatable="false">WPA2</string>
+    <string name="security_wpa3" translatable="false">WPA3</string>
+    <!-- security end -->
+
+
+    <!-- Wi-Fi band start -->
+    <string name="wifi_band_title" translatable="false">2.4/5/6 GHz</string>
+    <string name="wifi_band_2ghz" translatable="false">2.4 GHz</string>
+    <string name="wifi_band_5ghz" translatable="false">5 GHz</string>
+    <string name="wifi_band_6ghz" translatable="false">6 GHz</string>
+    <!-- Wi-Fi band end -->
+
+
+
+    <string name="login">Вход</string>
+    <string name="password">Пароль</string>
+    <string name="username">Имя пользователя</string>
+    <string name="ok">ОК</string>
+    <string name="scan">Сканировать</string>
+    <string name="access_points">Точки доступа</string>
+    <string name="profile">Профиль</string>
+    <string name="heatmap">Тепловая карта</string>
+    <string name="actions_history">История действий</string>
+    <string name="coordinates">Координаты</string>
+    <string name="recommended_value_1000ms">Рекомендуемое значение: ~1000 мс</string>
+    <string name="sound_frequency">Частота звука</string>
+    <string name="update_rate">Скорость обновления</string>
+    <string name="language">Язык</string>
+    <string name="logout">Выйти</string>
+    <string name="save">Сохранить</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accessPoints"
+        android:icon="@drawable/icon_wifi"
+        android:title="@string/access_points" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/icon_user"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/heatMapWifi"
+        android:icon="@drawable/icon_heatmap"
+        android:title="@string/heatmap" />
+
+</menu>
